@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/Beenarob/ORM-e-Commerce-Beena.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Beena Robert",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
