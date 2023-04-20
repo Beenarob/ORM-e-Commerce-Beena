@@ -65,3 +65,6 @@ DB_NAME='ecommerce_db'
 DB_USER='root'
 DB_PW='xxx'
 ```
+
+### Video Testing
+(https://vimeo.com/819355326?share=copy) 
